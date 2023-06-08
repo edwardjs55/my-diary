@@ -1,0 +1,3 @@
+
+MY working Version, built from scratch 
+according to Video, as opposed to GIT downlaod.
